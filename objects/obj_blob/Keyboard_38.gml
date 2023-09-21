@@ -6,3 +6,10 @@
 /// @DnDArgument : "y_relative" "1"
 
 y += -5;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 5DFA333D
+/// @DnDArgument : "expr" "1"
+/// @DnDArgument : "var" "isWalking"
+isWalking = 1;

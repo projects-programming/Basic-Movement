@@ -7,6 +7,8 @@
     {"id":{"name":"spr_lightpole","path":"sprites/spr_lightpole/spr_lightpole.yy",},"order":1,},
     {"id":{"name":"spr_blob","path":"sprites/spr_blob/spr_blob.yy",},"order":0,},
     {"id":{"name":"obj_blob","path":"objects/obj_blob/obj_blob.yy",},"order":0,},
+    {"id":{"name":"spr_trashbin","path":"sprites/spr_trashbin/spr_trashbin.yy",},"order":2,},
+    {"id":{"name":"obj_trashbin","path":"objects/obj_trashbin/obj_trashbin.yy",},"order":2,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
