@@ -3,6 +3,7 @@
   "resourceVersion": "1.6",
   "name": "Basic Movement",
   "resources": [
+    {"id":{"name":"obj_brickwall","path":"objects/obj_brickwall/obj_brickwall.yy",},"order":3,},
     {"id":{"name":"obj_lightpole","path":"objects/obj_lightpole/obj_lightpole.yy",},"order":1,},
     {"id":{"name":"spr_lightpole","path":"sprites/spr_lightpole/spr_lightpole.yy",},"order":1,},
     {"id":{"name":"spr_brickwall","path":"sprites/spr_brickwall/spr_brickwall.yy",},"order":3,},
